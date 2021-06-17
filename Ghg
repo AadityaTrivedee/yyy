@@ -1,0 +1,2243 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="robots" content="noindex nofollow" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content= "#24292e">
+        <!--[if IE]><meta http-equiv="cleartype" content="on" /><![endif]-->
+        <link rel="canonical" href="/">
+        <link rel="stylesheet" media="screen" href="/assets/css/index.css?v=1d" />
+        <link rel="shortcut icon" type="image/ico" href="/assets/images/favicons/favicon.png" />
+        <link rel="apple-touch-icon" href="/assets/images/favicons/apple-touch-icon.png" />
+        <link rel="icon" href="/assets/images/favicons/android-favicon.png">
+        <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Microsoft Open Source | Microsoft Open Source</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="Microsoft Open Source" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Microsoft Open Source: get involved in open source communities, discover projects and ecosystems Microsoft is involved in, and learn about the Microsoft open source program" />
+<meta property="og:description" content="Microsoft Open Source: get involved in open source communities, discover projects and ecosystems Microsoft is involved in, and learn about the Microsoft open source program" />
+<meta property="og:site_name" content="Microsoft Open Source" />
+<meta property="og:image" content="https://opensource.azureedge.net/assets/images/social-card.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://opensource.azureedge.net/assets/images/social-card.png" />
+<meta property="twitter:title" content="Microsoft Open Source" />
+<meta name="twitter:site" content="@openatmicrosoft" />
+<script type="application/ld+json">
+{"@type":"WebSite","description":"Microsoft Open Source: get involved in open source communities, discover projects and ecosystems Microsoft is involved in, and learn about the Microsoft open source program","url":"/","headline":"Microsoft Open Source","image":"https://opensource.azureedge.net/assets/images/social-card.png","name":"Microsoft Open Source","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <script type="text/javascript">
+            document.write('<style type="text/css">*[data-animate-in="up"], *[data-animate-in="up"], *[data-animate-in="fade"], *[data-animate-in="left"], *[data-animate-in="right"] { opacity: 0; } .tabs__content { display: none; } *[data-javascript-show="immediate"] { opacity: 1.0 }</style>');
+        </script>
+        <script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
+
+        <script src="https://opensource.azureedge.net/assets/js/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+        <script src="https://opensource.azureedge.net/assets/js/jquery.timeago.js"></script>
+        <script src="https://opensource.azureedge.net/assets/js/handlebars.js"></script>
+        <meta name="google-site-verification" content="PXNcqyP34d82CBV3rvH8RwDRH5iWWb_zL-UFwp-3Ubs" />
+        <meta name="google-site-verification" content="jj6XRLurdxcqc_T28_tszxZ4M2K8TFQDPjvVRb8MLsg" />
+    </head>
+    
+    <body class="page-loading no-js home" id="page-home">
+        <div id="cookiebanner"></div>
+        <a class="skip-to-content" href="#content" tabindex="1">skip to content</a>
+
+        <header id="site-header" role="banner">
+    <div class="site-header__inner">
+        <div class="site-logo">
+            <a href="/" tabindex="2">
+                <img src="https://opensource.azureedge.net/assets/images/Microsoft-Open-Source-logo.svg"
+                    alt="Microsoft | Open Source logo" />
+                <span class="sr-only">Return to homepage</span>
+            </a>
+        </div>
+
+        <ul class="site-header__nav">
+            <li>
+                <a href="/collaborate/">Get involved</a>
+            </li>
+            <li>
+                <a href="/projects/">Projects</a>
+            </li>
+            <li>
+                <a href="/ecosystem/">Ecosystem</a>
+            </li>
+            <li>
+                <a href="/program/">Our program</a>
+            </li>
+            <li>
+                <a class="external"
+                    target="_new"
+                    href="https://careers.microsoft.com/us/en/search-results?keywords=open%20source">
+                    <span>Jobs</span>
+                </a>
+            </li>
+            <li>
+                <a class="external"
+                    target="_new"
+                    href="https://cloudblogs.microsoft.com/opensource/">
+                    <span>Blog</span>
+                </a>
+            </li>
+        </ul>
+
+        <div class="site-header__utilities">
+            <div class="site-header__search">
+                <form class="search-form" role="search" action="/projects/explore" method="GET">
+                    <label for="header-search">
+                        <span class="sr-only">Search projects</span>
+                        <svg class="octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
+                    </label>
+                    <input type="text" id="header-search" name="q" placeholder="Search" />
+                </form>
+                <div class="search-trigger">
+                    <svg class="octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
+                </div>
+            </div>
+            <div class="nav-trigger js-menu-trigger">
+                <img class="open-menu" src="/assets/images/svgs/menu.svg" alt="menu icon" />
+                <img class="close-menu" src="/assets/images/svgs/close.svg" alt="close icon" />
+            </div>
+            <!--
+            <a class="sign-in" href="https://www.microsoft.com/mscomhp/onerf/signin?EEL=True&pcexp=True&ru=https%3A%2F%2Fwww.microsoft.com%2Fen-us">
+                <span>Sign In</span>
+                <span class="account-img"></span>
+            </a>
+            -->
+        </div>
+
+    </div>
+</header>
+
+<nav id="navigation">
+    <div class="site-navigation">
+        <div>
+            <ul class="main-nav">
+                <li>
+                    <form class="search-form" role="search" action="/projects/explore" method="GET">
+                        <label>
+                            <span class="sr-only">Search projects</span>
+                            <svg class="octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
+                        </label>
+                        <input id="search" type="text" name="q" placeholder="Search" />
+                    </form>
+                </li>
+                <li>
+                    <a class="is-active" href="/">Home</a>
+                </li>
+                <li>
+                    <a href="/collaborate/">Get involved</a>
+                </li>
+                <li>
+                    <a href="/projects/">Projects</a>
+                </li>
+                <li>
+                    <a href="/ecosystem/">Ecosystem</a>
+                </li>
+                <li>
+                    <a href="/program/">Our program</a>
+                </li>
+                <li>
+                    <a class="external"
+                        target="_new"
+                        href="https://careers.microsoft.com/us/en/search-results?keywords=open%20source">
+                        <span>Jobs</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="external" href="https://cloudblogs.microsoft.com/opensource/" target="_new">
+                        <span>Blog</span>
+                    </a>
+                </li>
+                <li>
+                    <p> </p>
+                </li>
+
+                <!--
+                <li>
+                    <a class="sign-in"
+                        href="https://www.microsoft.com/mscomhp/onerf/signin?EEL=True&pcexp=True&ru=https%3A%2F%2Fwww.microsoft.com%2Fen-us">
+                        <span>Sign In</span>
+                        <span class="account-img"></span>
+                    </a>
+                </li>
+                -->
+            </ul>
+        </div>
+    </div>
+
+
+    <span class="navigation-screen js-menu-trigger"></span>
+</nav>
+
+<div class="search-form-mobile">
+    <form class="search-form" role="search" action="/projects/explore" method="GET">
+        <label>
+            <span class="sr-only">Search projects</span>
+            <svg class="octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search octicon octicon-search" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
+        </label>
+        <input id="mobile-search" type="text" name="q" placeholder="Search" />
+    </form>
+</div>
+
+
+        <main id="content" class="main page-content" aria-label="Content">
+            <article>
+
+    <div class="wrapper-full bg-dark">
+        <div class="wrapper py-6 my-6">
+            <div class="d-md-flex flex-justify-between">
+                <div class="col-12 col-md-7 col-lg-7 mb-6 mb-md-0">
+                    <h1 class="h1-xl mb-6" x-data-animate-in="fade" x-data-animate-in-delay="100">
+                        Open.<br />
+                        Collaborative.<br />
+                        Flexible.
+                    </h1>
+                    <p class="p-lg text-white col-md-11 col-lg-9" x-data-animate-in="fade" x-data-animate-in-delay="220">
+                        Open Source enables Microsoft products and services to 
+                        bring choice, technology and community to our customers.
+                    </p>
+                    <div data-animate-in="fade" data-animate-in-delay="240">
+                        <a class="link-arrow text-white mt-4" href="/collaborate">Get involved</a>
+                        <br />
+                        <a class="link-arrow text-white mt-4" href="/projects">Explore projects</a>
+                    </div>
+                </div>
+                <div class="col-12 col-md-5 col-lg-4 pl-md-4 pl-lg-2" style="position: relative" id="hero-figure">
+                    <figure class="intro-svg" id="draw-svg" data-detect-viewport>
+                        
+<svg version="1.1" viewBox="0 0 370 370">
+<g>
+	<g id="heroSquare2">
+		<rect x="289" y="1" fill="none" stroke="#FFFFFF" width="80" height="80"/>
+		<circle fill="none" stroke="#FFFFFF" cx="329" cy="41" r="40"/>
+	</g>
+	<g>
+		<circle fill="#4F6BED" cx="195" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="195" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="200" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="205" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="210" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="215" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="220" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="225" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="230" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="235" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="240" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="245" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="250" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="255" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="260" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="265" cy="78" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="3" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="8" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="13" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="18" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="23" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="28" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="33" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="38" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="43" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="48" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="53" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="58" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="63" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="68" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="73" r="1"/>
+		<circle fill="#4F6BED" cx="270" cy="78" r="1"/>
+	</g>
+	<g id="heroSquare1">
+		<rect x="97" y="1" fill="none" stroke="#FFFFFF" width="80" height="80"/>
+		<circle fill="none" stroke="#FFFFFF" cx="137" cy="41" r="40"/>
+	</g>
+	<g class="rotate">
+		<g>
+    <path fill="#50E6FF" d="M12.7,69.3L12.7,69.3c3,3,6.4,5.5,10.2,7.4L5.3,59C7.2,62.8,9.7,66.3,12.7,69.3z"/>
+			<path fill="#50E6FF" d="M2.1,50.1l29.8,29.8c1.1,0.3,2.3,0.5,3.5,0.7l-34-33.9C1.6,47.8,1.8,49,2.1,50.1z"/>
+			<path fill="#50E6FF" d="M1,40.6L41.4,81c0.9,0,1.8-0.1,2.7-0.1l-43-43C1.1,38.8,1,39.7,1,40.6z"/>
+			<path fill="#50E6FF" d="M1.8,32.9l47.3,47.3c0.8-0.2,1.5-0.3,2.3-0.5l-49-49C2.2,31.4,2,32.2,1.8,32.9z"/>
+			<path fill="#50E6FF" d="M3.8,26.4l51.8,51.8c0.7-0.3,1.3-0.5,2-0.8l-53-53C4.3,25.1,4,25.7,3.8,26.4z"/>
+			<path fill="#50E6FF" d="M6.5,20.7l54.8,54.8c0.6-0.3,1.2-0.7,1.7-1.1L7.6,19C7.3,19.5,6.9,20.1,6.5,20.7z"/>
+			<path fill="#50E6FF" d="M10,15.7L66.3,72c0.5-0.4,1-0.9,1.5-1.3L11.3,14.2C10.9,14.7,10.5,15.2,10,15.7z"/>
+			<path fill="#50E6FF" d="M14.2,11.3l56.5,56.5c0.4-0.5,0.9-1,1.3-1.5L15.7,10C15.2,10.5,14.7,10.9,14.2,11.3z"/>
+			<path fill="#50E6FF" d="M18.9,7.6L74.3,63c0.4-0.6,0.7-1.2,1.1-1.7L20.7,6.5C20.1,6.9,19.5,7.3,18.9,7.6z"/>
+			<path fill="#50E6FF" d="M24.4,4.6l53,53c0.3-0.7,0.6-1.3,0.8-2L26.4,3.8C25.7,4,25.1,4.3,24.4,4.6z"/>
+			<path fill="#50E6FF" d="M30.6,2.4l49,49c0.2-0.8,0.4-1.5,0.5-2.3L32.9,1.8C32.2,2,31.4,2.2,30.6,2.4z"/>
+			<path fill="#50E6FF" d="M37.9,1.1l43,43c0.1-0.9,0.1-1.8,0.1-2.7L40.6,1C39.7,1,38.8,1.1,37.9,1.1z"/>
+			<path fill="#50E6FF" d="M46.7,1.4l33.9,33.9c-0.2-1.2-0.4-2.3-0.7-3.5L50.1,2.1C49,1.8,47.8,1.6,46.7,1.4z"/>
+			<path fill="#50E6FF" d="M59,5.3L76.7,23C72.8,15.4,66.6,9.2,59,5.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="289" y="97" fill="#4F6BED" width="80" height="80"/>
+	</g>
+	<g id="heroSquare4">
+		<rect x="193" y="97" fill="none" stroke="#FFFFFF" width="80" height="80"/>
+		<circle fill="none" stroke="#FFFFFF" cx="233" cy="137" r="40"/>
+	</g>
+	<g>
+		<circle fill="#0078D4" cx="137" cy="137" r="40"/>
+	</g>
+	<g id="heroSquare3">
+		<rect x="1" y="97" fill="none" stroke="#FFFFFF" width="80" height="80"/>
+		<circle fill="none" stroke="#FFFFFF" cx="41" cy="137" r="40"/>
+	</g>
+</g>
+<g>
+	<g class="rotate">
+		<g>
+			<path fill="#038387" d="M364.7,251l-17.6,17.7c3.8-1.9,7.2-4.4,10.2-7.4l0,0C360.3,258.3,362.8,254.8,364.7,251z"/>
+			<path fill="#038387" d="M368.6,238.7l-34,33.9c1.2-0.2,2.4-0.4,3.5-0.7l29.8-29.8C368.2,241,368.4,239.8,368.6,238.7z"/>
+			<path fill="#038387" d="M368.9,229.9l-43,43c0.9,0,1.8,0.1,2.7,0.1l40.4-40.4C369,231.7,368.9,230.8,368.9,229.9z"/>
+			<path fill="#038387" d="M367.6,222.7l-49,49c0.8,0.2,1.5,0.3,2.3,0.5l47.3-47.3C368,224.2,367.8,223.4,367.6,222.7z"/>
+			<path fill="#038387" d="M365.4,216.4l-53,53c0.7,0.3,1.3,0.5,2,0.8l51.8-51.8C366,217.7,365.7,217.1,365.4,216.4z"/>
+			<path fill="#038387" d="M362.4,211L307,266.4c0.5,0.4,1.1,0.8,1.7,1.1l54.8-54.8C363.1,212.1,362.7,211.5,362.4,211z"/>
+			<path fill="#038387" d="M358.7,206.2l-56.5,56.5c0.5,0.4,1,0.9,1.5,1.3l56.3-56.3C359.5,207.2,359.1,206.7,358.7,206.2z"/>
+			<path fill="#038387" d="M354.3,202L298,258.3c0.4,0.5,0.9,1,1.3,1.5l56.5-56.5C355.3,202.9,354.8,202.5,354.3,202z"/>
+			<path fill="#038387" d="M349.3,198.5l-54.7,54.8c0.4,0.5,0.7,1.1,1.1,1.7l55.4-55.4C350.5,199.3,349.9,198.9,349.3,198.5z"/>
+			<path fill="#038387" d="M343.6,195.8l-51.8,51.8c0.2,0.7,0.5,1.3,0.8,2l53-53C344.9,196.3,344.3,196,343.6,195.8z"/>
+			<path fill="#038387" d="M337.1,193.8l-47.2,47.3c0.1,0.8,0.3,1.5,0.5,2.3l49-49C338.6,194.2,337.8,194,337.1,193.8z"/>
+			<path fill="#038387" d="M329.4,193L289,233.4c0,0.9,0,1.8,0.1,2.7l43-43C331.2,193.1,330.3,193,329.4,193z"/>
+			<path fill="#038387" d="M319.9,194.1l-29.8,29.7c-0.3,1.2-0.5,2.3-0.7,3.5l33.9-33.9C322.2,193.6,321,193.8,319.9,194.1z"/>
+		</g>
+		<path fill="#038387" d="M293.3,215l17.7-17.7C303.4,201.2,297.2,207.4,293.3,215z"/>
+	</g>
+	<g>
+		<path fill="#342859" d="M199.2,250.2c-0.3-0.3-0.6-0.3-1-0.2c0.3,0.6,0.6,1.2,0.9,1.7c0,0,0.1,0,0.1-0.1
+			C199.5,251.2,199.5,250.6,199.2,250.2z"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -120.728 217.3358)" fill="#342859" cx="202" cy="254.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -122.2051 220.8333)" fill="#342859" cx="205.5" cy="257.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -123.6449 224.4357)" fill="#342859" cx="209.1" cy="261.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -125.1264 227.9383)" fill="#342859" cx="212.6" cy="265" rx="1" ry="1"/>
+		<path fill="#342859" d="M216.8,267.8c-0.4-0.4-1-0.4-1.4,0c0,0,0,0.1-0.1,0.1c0.6,0.3,1.1,0.6,1.7,0.9
+			C217.2,268.5,217.1,268.1,216.8,267.8z"/>
+		<path fill="#342859" d="M195.6,239.6c-0.2-0.2-0.5-0.3-0.8-0.3c0.1,0.6,0.2,1.3,0.4,1.9c0.1,0,0.3-0.1,0.4-0.2
+			C196,240.6,196,240,195.6,239.6z"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -114.3112 211.7153)" fill="#342859" cx="198.4" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -115.7174 215.2417)" fill="#342859" cx="202" cy="247.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -117.2282 218.8153)" fill="#342859" cx="205.5" cy="250.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -118.6366 222.3442)" fill="#342859" cx="209.1" cy="254.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -120.1155 225.844)" fill="#342859" cx="212.6" cy="257.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -121.6265 229.4177)" fill="#342859" cx="216.1" cy="261.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -123.0328 232.9443)" fill="#342859" cx="219.7" cy="265" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -124.5415 236.5152)" fill="#342859" cx="223.2" cy="268.6" rx="1" ry="1"/>
+		<path fill="#342859" d="M227.4,271.4c-0.4-0.4-1-0.4-1.4,0c-0.1,0.1-0.2,0.3-0.2,0.4c0.6,0.1,1.3,0.3,1.9,0.4
+			C227.7,271.9,227.6,271.6,227.4,271.4z"/>
+		<path fill="#342859" d="M195.6,233.9c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-0.9-0.4-1.3-0.1c0,0.1,0,0.2,0,0.3c0,0.4,0,0.9,0,1.3
+			C194.7,234.3,195.3,234.3,195.6,233.9z"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -109.3028 209.6239)" fill="#342859" cx="198.4" cy="236.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -110.7383 213.2209)" fill="#342859" cx="202" cy="240.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -112.2198 216.7237)" fill="#342859" cx="205.5" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -113.6258 220.25)" fill="#342859" cx="209.1" cy="247.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -115.1385 223.8262)" fill="#342859" cx="212.6" cy="250.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -116.6157 227.3234)" fill="#342859" cx="216.1" cy="254.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -118.0244 230.8528)" fill="#342859" cx="219.7" cy="257.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -119.533 234.4237)" fill="#342859" cx="223.2" cy="261.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -121.012 237.9235)" fill="#342859" cx="226.7" cy="265" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -122.4469 241.5202)" fill="#342859" cx="230.3" cy="268.6" rx="1" ry="1"/>
+		<path fill="#342859" d="M234.5,271.4c-0.4-0.4-1-0.4-1.4,0c-0.4,0.4-0.4,0.9-0.1,1.3c0.4,0,0.9,0,1.3,0c0.1,0,0.2,0,0.3,0
+			C234.9,272.3,234.9,271.7,234.5,271.4z"/>
+		<path fill="#342859" d="M195.6,226.8c0.4-0.4,0.4-1,0-1.4c-0.2-0.2-0.4-0.2-0.6-0.3c-0.1,0.6-0.2,1.3-0.3,1.9
+			C195,227.2,195.4,227.1,195.6,226.8z"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -104.3236 207.6031)" fill="#342859" cx="198.4" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -105.7319 211.1322)" fill="#342859" cx="202" cy="233.2" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -107.2113 214.6323)" fill="#342859" cx="205.5" cy="236.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -108.6468 218.2292)" fill="#342859" cx="209.1" cy="240.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -110.1278 221.7318)" fill="#342859" cx="212.6" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -111.6094 225.2348)" fill="#342859" cx="216.1" cy="247.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -113.0451 228.8321)" fill="#342859" cx="219.7" cy="250.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -114.5222 232.3292)" fill="#342859" cx="223.2" cy="254.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -116.0011 235.8289)" fill="#342859" cx="226.7" cy="257.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -117.4412 239.4317)" fill="#342859" cx="230.3" cy="261.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -118.9179 242.9288)" fill="#342859" cx="233.8" cy="265" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -120.4314 246.5055)" fill="#342859" cx="237.3" cy="268.6" rx="1" ry="1"/>
+		<path fill="#342859" d="M240.2,271.4c-0.2,0.2-0.3,0.6-0.3,0.9c0.7-0.1,1.3-0.2,1.9-0.3c0-0.2-0.1-0.4-0.3-0.6
+			C241.2,271,240.6,271,240.2,271.4z"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -99.3152 205.5116)" fill="#342859" cx="198.4" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -100.7235 209.0406)" fill="#342859" cx="202" cy="226.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -102.2322 212.6115)" fill="#342859" cx="205.5" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -103.6404 216.1405)" fill="#342859" cx="209.1" cy="233.2" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -105.1194 219.6403)" fill="#342859" cx="212.6" cy="236.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -106.6301 223.2142)" fill="#342859" cx="216.1" cy="240.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -108.0346 226.7376)" fill="#342859" cx="219.7" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -109.5162 230.2408)" fill="#342859" cx="223.2" cy="247.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -111.0267 233.8144)" fill="#342859" cx="226.7" cy="250.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -112.4303 237.3372)" fill="#342859" cx="230.3" cy="254.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -113.9121 240.8404)" fill="#342859" cx="233.8" cy="257.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -115.4203 244.4109)" fill="#342859" cx="237.3" cy="261.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -116.829 247.9404)" fill="#342859" cx="240.9" cy="265" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -118.3376 251.5112)" fill="#342859" cx="244.4" cy="268.6" rx="1" ry="1"/>
+		<path fill="#342859" d="M199.2,216.2c0.4-0.4,0.4-1,0-1.4c-0.1-0.1-0.3-0.2-0.5-0.3c-0.3,0.6-0.6,1.1-0.8,1.7
+			C198.2,216.6,198.8,216.6,199.2,216.2z"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -95.7443 207.0198)" fill="#342859" cx="202" cy="219.1" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -97.2237 210.52)" fill="#342859" cx="205.5" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -98.632 214.0491)" fill="#342859" cx="209.1" cy="226.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -100.1421 217.6225)" fill="#342859" cx="212.6" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -101.6216 221.1227)" fill="#342859" cx="216.1" cy="233.2" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -103.0262 224.6461)" fill="#342859" cx="219.7" cy="236.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -104.5348 228.217)" fill="#342859" cx="223.2" cy="240.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -106.016 231.7198)" fill="#342859" cx="226.7" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -107.4242 235.2488)" fill="#342859" cx="230.3" cy="247.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -108.9305 238.8165)" fill="#342859" cx="233.8" cy="250.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -110.4119 242.3193)" fill="#342859" cx="237.3" cy="254.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -111.8181 245.8456)" fill="#342859" cx="240.9" cy="257.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -113.3318 249.423)" fill="#342859" cx="244.4" cy="261.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -114.8082 252.9194)" fill="#342859" cx="247.9" cy="265" rx="1" ry="1"/>
+		<path fill="#342859" d="M250.8,267.8c-0.4,0.4-0.4,0.9-0.1,1.3c0.6-0.3,1.2-0.5,1.7-0.8c0-0.2-0.1-0.4-0.3-0.5
+			C251.8,267.5,251.2,267.5,250.8,267.8z"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -90.7342 204.9255)" fill="#342859" cx="202" cy="212" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -92.2169 208.4315)" fill="#342859" cx="205.5" cy="215.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -93.6528 212.0283)" fill="#342859" cx="209.1" cy="219.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -95.1317 215.528)" fill="#342859" cx="212.6" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -96.6112 219.0282)" fill="#342859" cx="216.1" cy="226.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -98.0472 222.6252)" fill="#342859" cx="219.7" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -99.5285 226.1285)" fill="#342859" cx="223.2" cy="233.2" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -101.0096 229.6314)" fill="#342859" cx="226.7" cy="236.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -102.4428 233.2248)" fill="#342859" cx="230.3" cy="240.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -103.9222 236.725)" fill="#342859" cx="233.8" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -105.4034 240.2279)" fill="#342859" cx="237.3" cy="247.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -106.8414 243.8281)" fill="#342859" cx="240.9" cy="250.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -108.3233 247.3315)" fill="#342859" cx="244.4" cy="254.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -109.7972 250.8246)" fill="#342859" cx="247.9" cy="257.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -111.2377 254.4281)" fill="#342859" cx="251.5" cy="261.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -112.7195 257.9313)" fill="#342859" cx="255" cy="265" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -87.2361 206.4079)" fill="#342859" cx="205.5" cy="208.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -88.6427 209.9338)" fill="#342859" cx="209.1" cy="212" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -90.125 213.4396)" fill="#342859" cx="212.6" cy="215.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -91.6319 217.0075)" fill="#342859" cx="216.1" cy="219.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -93.0388 220.5338)" fill="#342859" cx="219.7" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -94.5182 224.0339)" fill="#342859" cx="223.2" cy="226.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -96.0283 227.6075)" fill="#342859" cx="226.7" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -97.4366 231.1366)" fill="#342859" cx="230.3" cy="233.2" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -98.9138 234.6335)" fill="#342859" cx="233.8" cy="236.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -100.422 238.2039)" fill="#342859" cx="237.3" cy="240.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -101.8306 241.7333)" fill="#342859" cx="240.9" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -103.3123 245.2368)" fill="#342859" cx="244.4" cy="247.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -104.823 248.8106)" fill="#342859" cx="247.9" cy="250.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -106.2268 252.3332)" fill="#342859" cx="251.5" cy="254.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -107.7083 255.8363)" fill="#342859" cx="255" cy="257.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -109.1489 259.4401)" fill="#342859" cx="258.6" cy="261.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -83.6358 207.8453)" fill="#342859" cx="209.1" cy="204.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -85.1457 211.419)" fill="#342859" cx="212.6" cy="208.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -86.6251 214.9191)" fill="#342859" cx="216.1" cy="212" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -88.0322 218.4454)" fill="#342859" cx="219.7" cy="215.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -89.5409 222.0163)" fill="#342859" cx="223.2" cy="219.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -91.0218 225.5192)" fill="#342859" cx="226.7" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -92.4262 229.0418)" fill="#342859" cx="230.3" cy="226.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -93.9348 232.6126)" fill="#342859" cx="233.8" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -95.4179 236.119)" fill="#342859" cx="237.3" cy="233.2" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -96.8222 239.6417)" fill="#342859" cx="240.9" cy="236.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -98.3331 243.216)" fill="#342859" cx="244.4" cy="240.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -99.8121 246.7157)" fill="#342859" cx="247.9" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -101.2208 250.2452)" fill="#342859" cx="251.5" cy="247.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -102.7316 253.8192)" fill="#342859" cx="255" cy="250.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -104.1378 257.3451)" fill="#342859" cx="258.6" cy="254.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -105.6141 260.8412)" fill="#342859" cx="262.1" cy="257.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -80.1371 209.3275)" fill="#342859" cx="212.6" cy="201.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -81.6166 212.8277)" fill="#342859" cx="216.1" cy="204.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -83.0547 216.4279)" fill="#342859" cx="219.7" cy="208.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -84.5324 219.9249)" fill="#342859" cx="223.2" cy="212" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -86.0114 223.4245)" fill="#342859" cx="226.7" cy="215.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -87.449 227.0243)" fill="#342859" cx="230.3" cy="219.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -88.9264 230.5211)" fill="#342859" cx="233.8" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -90.4053 234.0208)" fill="#342859" cx="237.3" cy="226.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -91.8453 237.6244)" fill="#342859" cx="240.9" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -93.3269 241.1279)" fill="#342859" cx="244.4" cy="233.2" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -94.8014 244.6208)" fill="#342859" cx="247.9" cy="236.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -96.2416 248.2245)" fill="#342859" cx="251.5" cy="240.3" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -97.7206 251.7242)" fill="#342859" cx="255" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -99.1318 255.2572)" fill="#342859" cx="258.6" cy="247.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -100.635 258.8205)" fill="#342859" cx="262.1" cy="250.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -102.1193 262.3274)" fill="#342859" cx="265.6" cy="254.4" rx="1" ry="1"/>
+		<path fill="#342859" d="M215.4,198.6c0.4,0.4,1,0.4,1.4,0c0.4-0.4,0.4-1,0-1.4c-0.1-0.1-0.2-0.2-0.4-0.2c-0.4,0.2-0.8,0.4-1.3,0.7
+			C215.1,197.9,215.1,198.3,215.4,198.6z"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -78.0446 214.3331)" fill="#342859" cx="219.7" cy="201.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -79.5239 217.8333)" fill="#342859" cx="223.2" cy="204.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -81.0322 221.4038)" fill="#342859" cx="226.7" cy="208.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -82.4404 224.9328)" fill="#342859" cx="230.3" cy="212" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -83.9218 228.4364)" fill="#342859" cx="233.8" cy="215.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -85.4282 232.0034)" fill="#342859" cx="237.3" cy="219.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -86.8348 235.5294)" fill="#342859" cx="240.9" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -88.3183 239.0365)" fill="#342859" cx="244.4" cy="226.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -89.8266 242.607)" fill="#342859" cx="247.9" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -91.2332 246.1329)" fill="#342859" cx="251.5" cy="233.2" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -92.7122 249.6327)" fill="#342859" cx="255" cy="236.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -94.1502 253.2329)" fill="#342859" cx="258.6" cy="240.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -95.6267 256.7289)" fill="#342859" cx="262.1" cy="243.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -97.1081 260.2323)" fill="#342859" cx="265.6" cy="247.3" rx="1" ry="1"/>
+		<path fill="#342859" d="M268.5,250.2c-0.4,0.4-0.4,1,0,1.4c0.3,0.3,0.6,0.3,1,0.2c0.2-0.4,0.4-0.8,0.7-1.3c0-0.1-0.1-0.3-0.2-0.4
+			C269.5,249.8,268.8,249.8,268.5,250.2z"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -74.5155 215.7419)" fill="#342859" cx="223.2" cy="197.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -76.0253 219.3157)" fill="#342859" cx="226.7" cy="201.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -77.432 222.8414)" fill="#342859" cx="230.3" cy="204.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -78.9407 226.4122)" fill="#342859" cx="233.8" cy="208.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -80.4179 229.9085)" fill="#342859" cx="237.3" cy="212" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -81.8284 233.4413)" fill="#342859" cx="240.9" cy="215.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -83.3391 237.0158)" fill="#342859" cx="244.4" cy="219.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -84.8161 240.512)" fill="#342859" cx="247.9" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -86.2226 244.0379)" fill="#342859" cx="251.5" cy="226.1" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -87.733 247.6119)" fill="#342859" cx="255" cy="229.7" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -89.144 251.145)" fill="#342859" cx="258.6" cy="233.2" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -90.6183 254.6375)" fill="#342859" cx="262.1" cy="236.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -92.1289 258.2115)" fill="#342859" cx="265.6" cy="240.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -93.538 261.7415)" fill="#342859" cx="269.2" cy="243.8" rx="1" ry="1"/>
+		<path fill="#342859" d="M226,195c0.4,0.4,1,0.4,1.4,0c0.4-0.4,0.4-1,0-1.4c-0.1-0.1-0.3-0.2-0.4-0.2c-0.3,0.1-0.6,0.1-0.9,0.2
+			c0,0-0.1,0-0.1,0.1C225.6,194,225.6,194.6,226,195z"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -72.4236 220.7499)" fill="#342859" cx="230.3" cy="197.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -73.9323 224.3207)" fill="#342859" cx="233.8" cy="201.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -75.4112 227.8204)" fill="#342859" cx="237.3" cy="204.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -76.8492 231.4206)" fill="#342859" cx="240.9" cy="208.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -78.3285 234.9208)" fill="#342859" cx="244.4" cy="212" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -79.8076 238.4205)" fill="#342859" cx="247.9" cy="215.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -81.2436 242.0171)" fill="#342859" cx="251.5" cy="219.1" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -82.7246 245.5205)" fill="#342859" cx="255" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -84.1332 249.0499)" fill="#342859" cx="258.6" cy="226.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -85.6393 252.6166)" fill="#342859" cx="262.1" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -87.1228 256.1239)" fill="#342859" cx="265.6" cy="233.2" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -88.5296 259.65)" fill="#342859" cx="269.2" cy="236.7" rx="1" ry="1"/>
+		<path fill="#342859" d="M273.4,239.6c-0.4-0.4-1-0.4-1.4,0c-0.4,0.4-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0c0,0,0-0.1,0.1-0.1
+			c0.1-0.3,0.1-0.6,0.2-0.9C273.6,239.8,273.5,239.7,273.4,239.6z"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -68.9253 222.2327)" fill="#342859" cx="233.8" cy="194.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -70.4028 225.729)" fill="#342859" cx="237.3" cy="197.8" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -71.8408 229.3292)" fill="#342859" cx="240.9" cy="201.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -73.3219 232.833)" fill="#342859" cx="244.4" cy="204.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -74.8266 236.3961)" fill="#342859" cx="247.9" cy="208.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -76.2371 239.9293)" fill="#342859" cx="251.5" cy="212" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -77.7181 243.4326)" fill="#342859" cx="255" cy="215.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -79.1561 247.0328)" fill="#342859" cx="258.6" cy="219.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -80.631 250.5251)" fill="#342859" cx="262.1" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -82.1121 254.0286)" fill="#342859" cx="265.6" cy="226.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -83.5527 257.6331)" fill="#342859" cx="269.2" cy="229.7" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -85.0294 261.1289)" fill="#342859" cx="272.7" cy="233.2" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -66.8323 227.2377)" fill="#342859" cx="240.9" cy="194.3" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -68.3133 230.7415)" fill="#342859" cx="244.4" cy="197.8" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -69.82 234.3083)" fill="#342859" cx="247.9" cy="201.4" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -71.2287 237.8378)" fill="#342859" cx="251.5" cy="204.9" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -72.7387 241.412)" fill="#342859" cx="255" cy="208.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -74.1475 244.9415)" fill="#342859" cx="258.6" cy="212" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -75.6246 248.4374)" fill="#342859" cx="262.1" cy="215.5" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -77.135 252.0117)" fill="#342859" cx="265.6" cy="219.1" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -78.542 255.5377)" fill="#342859" cx="269.2" cy="222.6" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -80.0187 259.0335)" fill="#342859" cx="272.7" cy="226.1" rx="1" ry="1"/>
+		<path fill="#342859" d="M248.3,195.2c-0.4-0.2-0.8-0.3-1.2-0.4c0,0.1,0.1,0.2,0.1,0.2C247.5,195.3,248,195.4,248.3,195.2z"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -66.2202 235.7463)" fill="#342859" cx="251.5" cy="197.8" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -67.7302 239.3205)" fill="#342859" cx="255" cy="201.4" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -69.139 242.85)" fill="#342859" cx="258.6" cy="204.9" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -70.6435 246.4128)" fill="#342859" cx="262.1" cy="208.5" rx="1" ry="1"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -72.1244 249.9164)" fill="#342859" cx="265.6" cy="212" rx="1" ry="1"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -73.5356 253.4501)" fill="#342859" cx="269.2" cy="215.5" rx="1" ry="1"/>
+		<path fill="#342859" d="M272,219.8c0.1,0.1,0.1,0.1,0.2,0.1c-0.1-0.4-0.3-0.8-0.4-1.2C271.6,219,271.7,219.5,272,219.8z"/>
+	</g>
+	<g id="heroSquare5">
+		<rect x="97" y="193" fill="none" stroke="#FFFFFF" width="80" height="80"/>
+		<circle fill="none" stroke="#FFFFFF" cx="137" cy="233" r="40"/>
+	</g>
+	<g>
+		<circle fill="#FCE100" cx="5" cy="196" r="1"/>
+		<circle fill="#FCE100" cx="5" cy="211" r="1"/>
+		<circle fill="#FCE100" cx="5" cy="226" r="1"/>
+		<circle fill="#FCE100" cx="5" cy="241" r="1"/>
+		<circle fill="#FCE100" cx="5" cy="256" r="1"/>
+		<circle fill="#FCE100" cx="5" cy="271" r="1"/>
+		<circle fill="#FCE100" cx="20" cy="196" r="1"/>
+		<circle fill="#FCE100" cx="20" cy="211" r="1"/>
+		<circle fill="#FCE100" cx="20" cy="226" r="1"/>
+		<circle fill="#FCE100" cx="20" cy="241" r="1"/>
+		<circle fill="#FCE100" cx="20" cy="256" r="1"/>
+		<circle fill="#FCE100" cx="20" cy="271" r="1"/>
+		<circle fill="#FCE100" cx="35" cy="196" r="1"/>
+		<circle fill="#FCE100" cx="35" cy="211" r="1"/>
+		<circle fill="#FCE100" cx="35" cy="226" r="1"/>
+		<circle fill="#FCE100" cx="35" cy="241" r="1"/>
+		<circle fill="#FCE100" cx="35" cy="256" r="1"/>
+		<circle fill="#FCE100" cx="35" cy="271" r="1"/>
+		<circle fill="#FCE100" cx="50" cy="196" r="1"/>
+		<circle fill="#FCE100" cx="50" cy="211" r="1"/>
+		<circle fill="#FCE100" cx="50" cy="226" r="1"/>
+		<circle fill="#FCE100" cx="50" cy="241" r="1"/>
+		<circle fill="#FCE100" cx="50" cy="256" r="1"/>
+		<circle fill="#FCE100" cx="50" cy="271" r="1"/>
+		<circle fill="#FCE100" cx="65" cy="196" r="1"/>
+		<circle fill="#FCE100" cx="65" cy="211" r="1"/>
+		<circle fill="#FCE100" cx="65" cy="226" r="1"/>
+		<circle fill="#FCE100" cx="65" cy="241" r="1"/>
+		<circle fill="#FCE100" cx="65" cy="256" r="1"/>
+		<circle fill="#FCE100" cx="65" cy="271" r="1"/>
+		<circle fill="#FCE100" cx="80" cy="196" r="1"/>
+		<circle fill="#FCE100" cx="80" cy="211" r="1"/>
+		<circle fill="#FCE100" cx="80" cy="226" r="1"/>
+		<circle fill="#FCE100" cx="80" cy="241" r="1"/>
+		<circle fill="#FCE100" cx="80" cy="256" r="1"/>
+		<circle fill="#FCE100" cx="80" cy="271" r="1"/>
+	</g>
+</g>
+<g>
+	<g>
+		<circle fill="#0078D4" cx="291" cy="291" r="1"/>
+		<circle fill="#0078D4" cx="291" cy="306" r="1"/>
+		<circle fill="#0078D4" cx="291" cy="321" r="1"/>
+		<circle fill="#0078D4" cx="291" cy="336" r="1"/>
+		<circle fill="#0078D4" cx="291" cy="351" r="1"/>
+		<circle fill="#0078D4" cx="291" cy="366" r="1"/>
+		<circle fill="#0078D4" cx="306" cy="291" r="1"/>
+		<circle fill="#0078D4" cx="306" cy="306" r="1"/>
+		<circle fill="#0078D4" cx="306" cy="321" r="1"/>
+		<circle fill="#0078D4" cx="306" cy="336" r="1"/>
+		<circle fill="#0078D4" cx="306" cy="351" r="1"/>
+		<circle fill="#0078D4" cx="306" cy="366" r="1"/>
+		<circle fill="#0078D4" cx="321" cy="291" r="1"/>
+		<circle fill="#0078D4" cx="321" cy="306" r="1"/>
+		<circle fill="#0078D4" cx="321" cy="321" r="1"/>
+		<circle fill="#0078D4" cx="321" cy="336" r="1"/>
+		<circle fill="#0078D4" cx="321" cy="351" r="1"/>
+		<circle fill="#0078D4" cx="321" cy="366" r="1"/>
+		<circle fill="#0078D4" cx="336" cy="291" r="1"/>
+		<circle fill="#0078D4" cx="336" cy="306" r="1"/>
+		<circle fill="#0078D4" cx="336" cy="321" r="1"/>
+		<circle fill="#0078D4" cx="336" cy="336" r="1"/>
+		<circle fill="#0078D4" cx="336" cy="351" r="1"/>
+		<circle fill="#0078D4" cx="336" cy="366" r="1"/>
+		<circle fill="#0078D4" cx="351" cy="291" r="1"/>
+		<circle fill="#0078D4" cx="351" cy="306" r="1"/>
+		<circle fill="#0078D4" cx="351" cy="321" r="1"/>
+		<circle fill="#0078D4" cx="351" cy="336" r="1"/>
+		<circle fill="#0078D4" cx="351" cy="351" r="1"/>
+		<circle fill="#0078D4" cx="351" cy="366" r="1"/>
+		<circle fill="#0078D4" cx="366" cy="291" r="1"/>
+		<circle fill="#0078D4" cx="366" cy="306" r="1"/>
+		<circle fill="#0078D4" cx="366" cy="321" r="1"/>
+		<circle fill="#0078D4" cx="366" cy="336" r="1"/>
+		<circle fill="#0078D4" cx="366" cy="351" r="1"/>
+		<circle fill="#0078D4" cx="366" cy="366" r="1"/>
+	</g>
+	<g id="heroSquare6">
+		<rect x="193" y="289" fill="none" stroke="#FFFFFF" width="80" height="80"/>
+		<circle fill="none" stroke="#FFFFFF" cx="233" cy="329" r="40"/>
+	</g>
+	<g>
+		<circle fill="#50E6FF" cx="137" cy="329" r="40"/>
+	</g>
+	<g class="square">
+		<rect x="1" y="367" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="361" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="355" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="349" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="343" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="337" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="331" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="325" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="319" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="313" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="307" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="301" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="295" fill="#4F6BED" width="80" height="2"/>
+		<rect x="1" y="289" fill="#4F6BED" width="80" height="2"/>
+	</g>
+</g>
+</svg>
+
+                    </figure>
+                    <div id="hero-avatars" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0"></div>
+                    <div id="hero-accessibility-controls" style="position: absolute; right: 0; bottom: 0;" data-require-javascript="yes" data-javascript-show="immediate">
+                        <div style="position: relative; margin-bottom: -30px;" >
+                            <a  class="refresh"
+                                style="color: #fff"
+                                id="toggle-graphics"
+                                href="#"
+                                title="Pause animation"><span class="sr-only" id="toggle-text2">Pause animations and stop showing new graphics</span>
+                                <span id="toggle-text" aria-hidden="true">Pause</span> <span id="pause-icon"><svg class="octicon octicon-square-fill" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.75 4A1.75 1.75 0 004 5.75v4.5c0 .966.784 1.75 1.75 1.75h4.5A1.75 1.75 0 0012 10.25v-4.5A1.75 1.75 0 0010.25 4h-4.5z"></path></svg></span><span 
+                                id="resume-icon"><svg class="octicon octicon-triangle-right" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.427 4.427l3.396 3.396a.25.25 0 010 .354l-3.396 3.396A.25.25 0 016 11.396V4.604a.25.25 0 01.427-.177z"></path></svg></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="wrapper pt-6 pb-4 mt-6 mb-4">
+        <div class="text-center mb-6" data-animate-in="up" data-animate-in-delay="200">
+            <h2 class="h3">Projects</h2>
+            <p>
+                Some of the most popular developer tools, frameworks and experiences in the world
+                are built around open communities. Here are a few featured Microsoft projects of note.
+            </p>
+        </div>
+
+        <div class="tile-list" data-animate-in="up" data-animate-in-delay="400">
+            
+            
+            
+            
+            <a class="tile" href="https://accessibilityinsights.io/" target="_blank" rel= "noopener">
+                <div>
+                    
+                    <img class="mb-4" src="/assets/images/projects/accessibility-insights.svg" alt="" />
+                    <h3 class="h4 text-brand font-weight-600 mb-3">Accessibility Insights</h3>
+                    <p>Accessibility Insights is a suite of open source tools that help developers find and fix accessibility issues in Web, Windows and Android applications.</p>
+                </div>
+            </a>
+            <a class="tile" href="https://cnab.io/" target="_blank" rel= "noopener">
+                <div>
+                    
+                    <img class="mb-4" src="/assets/images/projects/cnab.png" alt="" />
+                    <h3 class="h4 text-brand font-weight-600 mb-3">CNAB</h3>
+                    <p>CNAB is a spec for packaging distributed apps</p>
+                </div>
+            </a>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <a class="tile" href="https://github.com/microsoft/Terminal" target="_blank" rel= "noopener">
+                <div>
+                    
+                    <img class="mb-4" src="/assets/images/projects/terminal.svg" alt="" />
+                    <h3 class="h4 text-brand font-weight-600 mb-3">Windows Terminal</h3>
+                    <p>The new Windows Terminal and the original Windows console host, all in the same place!</p>
+                </div>
+            </a>
+            
+            </div>
+
+        <div class="text-center mt-6 pb-6">
+            <a class="link-arrow text-brand" href="/projects">Explore Microsoft projects</a>
+        </div>
+    </div>
+
+
+    <!-- 
+
+    <hr />
+
+    <div class="wrapper py-6 my-6">
+        <div class="py-6 my-6">
+            <div class="d-md-flex text-center">
+
+                <div class="col-12 col-md-4 pr-md-4" data-animate-in="fade" data-animate-in-delay="200">
+                    <img class="mb-4" src="/assets/images/svgs/collaborate.svg" alt="" />
+                    <h3 class="h3">Open</h3>
+                    <p>
+                        Working in the open is the secret sauce. Microsoft engineers work
+                        to adopt industry-standard technologies, work in the open, support
+                        a diversity of technologies and platforms, and
+                        contribute upstream as often as possible.
+                    </p>
+                </div>
+
+                <div class="col-12 col-md-4 px-md-3 mb-6 mb-md-0" data-animate-in="fade" data-animate-in-delay="200">
+                    <img class="mb-4" src="/assets/images/svgs/innovate.svg" alt="" />
+                    <h3 class="h3">Collaborative</h3>
+                    <p>
+                       With participation from around the world, new perspectives
+                       are discovered, passionate users are able to dig in, and a special
+                       connection exists between upstream projects, maintainers, and all open
+                       source projects.
+                    </p>
+                </div>
+
+                <div class="col-12 col-md-4 pl-md-4 mb-6 mb-md-0" data-animate-in="fade" data-animate-in-delay="200">
+                    <img class="mb-4" src="/assets/images/svgs/build.svg" alt="" />
+                    <h3 class="h3">Flexible</h3>
+                    <p>
+                        Open source makes amazing business sense: industry-standard open
+                        technologies are super flexible: easy to adopt, attract leading
+                        talent that's familiar, and provides an opportunity to rapidly
+                        innovate and deliver value tailored to specific needs, building
+                        on the work of others.
+                    </p>
+                </div>
+
+            </div>
+
+            <div class="text-center mt-6" data-animate-in="up" data-animate-in-delay="200">
+                <a class="link-arrow text-brand" href="/ecosystem">
+                    The open source ecosystem we support
+                </a>
+            </div>
+        </div>
+    </div>
+    -->
+
+
+    <hr />
+
+
+    <div class="split-content text-white">
+        <!-- TEMP: overriding color for more contrast -->
+        <div class="split-content__content split-content__content--left" style="background-color: #0070f2;">
+            <div data-animate-in="fade" data-animate-in-delay="200">
+                <h2 class="mb-4">
+                    <span class="h5">Microsoft's communities</span>
+                    <span class="h2">Get involved</span>
+                </h2>
+                <p class="p-lg font-weight-400">
+                    We are building value together and welcome everyone to
+                    participate. Together, in the open, it's an exciting
+                    time to use technology to build hacks, apps, and services.
+                </p>
+
+                <div class="mt-6">
+                    <a class="link-arrow" href="/collaborate/#get-involved">Happening now</a><br />
+                    <a class="link-arrow" href="/collaborate/#get-started">Find a "good first issue"</a><br />
+                    <a class="link-arrow" href="/projects/">Featured projects</a>
+                </div>
+            </div>
+
+            <img src="/assets/images/direction/stripes-corner.svg" alt="" />
+        </div>
+
+        <div class="split-content__content split-content__content--right">
+            <div data-animate-in="fade" data-animate-in-delay="200">
+                <h2 class="mb-4">
+                    <span class="h5">Learn from our enterprise-scale approach</span>
+                    <span class="h2">Our program & tools</span>
+                </h2>
+                <p class="p-lg font-weight-400">
+                    We have worked to develop a strong open source program over the past decade, making
+                    it easy for every team at Microsoft to choose to use, contribute to, and release open
+                    source software.
+                </p>
+                <p class="p-lg font-weight-400">
+                    Many of our tools and approaches are available for you to learn from, too.
+                </p>
+
+                <div class="mt-6">
+                    <a class="link-arrow" href="/program/">Our program</a><br />
+                    <a class="link-arrow" href="/program/#program-tools">Our tools</a><br />
+                    <a class="link-arrow" href="/ecosystem/">The ecosystem we support</a>
+                </div>
+            </div>
+            <img src="/assets/images/direction/dots-corner.svg" alt="" />
+        </div>
+    </div>
+
+
+
+
+            <div class="wrapper pt-6 pb-6 mt-6 mb-6">
+        <div class="text-center mb-6" data-animate-in="up" data-animate-in-delay="400">
+            <h2 class="h3">Open Source Updates</h2>
+        </div>
+        <div class="text-center mt-6 pb-6">
+            <a class="link-arrow-external" href="https://cloudblogs.microsoft.com/opensource/">Microsoft's Open Source
+                Blog</a>
+        </div>
+
+        <div class="blog-list">
+            
+            <a class="blog-preview" href="https://cloudblogs.microsoft.com/opensource/2020/08/03/microsoft-joins-open-source-security-foundation/" target="_blank" rel= "noopener" data-animate-in="up"
+                data-animate-in-delay="200">
+                <div>
+                    <h3 class="h5 text-brand font-weight-600 mb-2">Microsoft joins Open Source Security Foundation</h3>
+                    
+                    <span class="blog-preview__meta mb-2">
+                        
+                        <img
+                            alt="Photo or avatar image of Mark Russinovich"
+                            style="border-radius: 50%; max-width: 32px;display:inline-block"
+                            src="/assets/images/posts/markruss.jpg" />
+                        
+                        <div style="display: inline-block; margin-left: 6px">
+                            Mark Russinovich
+                            
+                            <br />CTO, Microsoft Azure
+                            
+                        </div>
+                    </span>
+                    
+                    <!--
+                    <p class="blog-preview__meta mb-2">August 3, 2020</p>
+                    -->
+                    <p>Microsoft is joining industry partners to create the Open Source Security Foundation (OpenSSF), a new cross-industry collaboration hosted at the Linux Foundation. Microsoft is proud to be a founding member alongside GitHub, Google, IBM, JPMC, NCC Group, OWASP Foundation, and Red Hat.</p>
+
+                </div>
+                <div class="link-arrow-external mt-4">Read post</div>
+            </a>
+            
+            <a class="blog-preview" href="https://cloudblogs.microsoft.com/opensource/2020/05/01/helm-package-manager-kubernetes-now-cncf-graduated-project/" target="_blank" rel= "noopener" data-animate-in="up"
+                data-animate-in-delay="200">
+                <div>
+                    <h3 class="h5 text-brand font-weight-600 mb-2">Helm, the package manager for Kubernetes, now a CNCF graduated project</h3>
+                    
+                    <span class="blog-preview__meta mb-2">
+                        
+                        <img
+                            alt="Photo or avatar image of Brendan Burns"
+                            style="border-radius: 50%; max-width: 32px;display:inline-block"
+                            src="/assets/images/posts/brendanburns.png" />
+                        
+                        <div style="display: inline-block; margin-left: 6px">
+                            Brendan Burns
+                            
+                            <br />Corporate Vice President, Microsoft Azure
+                            
+                        </div>
+                    </span>
+                    
+                    <!--
+                    <p class="blog-preview__meta mb-2">May 1, 2020</p>
+                    -->
+                    <p>The Helm project has graduated to the Cloud Native Computing Foundation (CNCF), joining a select group of projects that the CNCF recognizes for achieving majority adoption by the cloud-native community.</p>
+
+                </div>
+                <div class="link-arrow-external mt-4">Read post</div>
+            </a>
+            
+            <a class="blog-preview" href="https://cloudblogs.microsoft.com/opensource/2019/12/12/announcing-microsoft-openchain-conformance/" target="_blank" rel= "noopener" data-animate-in="up"
+                data-animate-in-delay="200">
+                <div>
+                    <h3 class="h5 text-brand font-weight-600 mb-2">Microsoft announces OpenChain 2.0 conformance for open source</h3>
+                    
+                    <span class="blog-preview__meta mb-2">
+                        
+                        <img
+                            alt="Photo or avatar image of David Rudin"
+                            style="border-radius: 50%; max-width: 32px;display:inline-block"
+                            src="/assets/images/posts/davidrudin.jpg" />
+                        
+                        <div style="display: inline-block; margin-left: 6px">
+                            David Rudin
+                            
+                            <br />Assistant General Counsel
+                            
+                        </div>
+                    </span>
+                    
+                    <!--
+                    <p class="blog-preview__meta mb-2">December 12, 2019</p>
+                    -->
+                    <p>Microsoft’s open source program is OpenChain 2.0 comformant. Trust is key to open source. Developers should be able to trust users to respect their licensing choices. And when you receive software, you should be able to trust that the open source licenses were followed.</p>
+
+                </div>
+                <div class="link-arrow-external mt-4">Read post</div>
+            </a>
+            
+            <a class="blog-preview" href="https://cloudblogs.microsoft.com/opensource/2019/08/28/exfat-linux-kernel/" target="_blank" rel= "noopener" data-animate-in="up"
+                data-animate-in-delay="200">
+                <div>
+                    <h3 class="h5 text-brand font-weight-600 mb-2">exFAT in the Linux kernel? Yes!</h3>
+                    
+                    <span class="blog-preview__meta mb-2">
+                        
+                        <img
+                            alt="Photo or avatar image of John Gossman"
+                            style="border-radius: 50%; max-width: 32px;display:inline-block"
+                            src="/assets/images/posts/johngossman.jpg" />
+                        
+                        <div style="display: inline-block; margin-left: 6px">
+                            John Gossman
+                            
+                            <br />Distinguished Engineer
+                            
+                        </div>
+                    </span>
+                    
+                    <!--
+                    <p class="blog-preview__meta mb-2">August 28, 2019</p>
+                    -->
+                    <p>Microsoft is supporting the addition of Microsoft’s exFAT technology to the Linux kernel. exFAT is the Microsoft-developed file system that’s used in Windows and in many types of storage devices like SD Cards and USB flash drives.</p>
+
+                </div>
+                <div class="link-arrow-external mt-4">Read post</div>
+            </a>
+            
+        </div>
+        
+        
+
+        <!--
+        <div class="text-center mt-6 pb-6">
+            <a class="link-arrow-external" href="https://cloudblogs.microsoft.com/opensource/">Microsoft's Open Source
+                Blog</a>
+        </div>
+        -->
+    </div>
+
+
+
+
+
+    <div class="wrapper-full bg-brand-dark text-white">
+        <div class="wrapper py-6 my-6">
+            <h3 class="h3">Community Resources</h3>
+            <div class="d-md-flex">
+                <div class="col-md-6 col-lg-5 mb-4 mb-md-0">
+                    <p>
+                        We welcome you to our open communities. Please check out
+                        our Code of Conduct and one-time Contributor License Agreement
+                        to help us all participate with care.
+                    </p>
+                </div>
+                <div class="col-md-6 pl-md-4 pl-lg-6">
+                    
+                    
+                    
+                    
+                    <div>
+                        <a class="link-arrow-external mb-2" href="https://opensource.microsoft.com/codeofconduct">Microsoft's Open Source Code of Conduct</a>
+                    </div>
+                    
+                    <div>
+                        <a class="link-arrow-external mb-2" href="https://cla.opensource.microsoft.com">Microsoft Contributor License Agreement</a>
+                    </div>
+                    
+                    <div>
+                        <a class="link-arrow-external mb-2" href="https://3rdpartysource.microsoft.com/">Third-Party Disclosures</a>
+                    </div>
+                    
+                    <div>
+                        <a class="link-arrow-external mb-2" href="/program/">Microsoft's Open Source Program</a>
+                    </div>
+                    
+                    <div>
+                        <a class="link-arrow-external mb-2" href="https://opensource.guide">The Open Source Guides</a>
+                    </div>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</article>
+
+<script>
+    var $ = jQuery;
+
+var toggleAction = $('#toggle-graphics');
+var toggleText = $('#toggle-text');
+var toggleText2 = $('#toggle-text2');
+var pauseIcon = $('#pause-icon');
+var resumeIcon = $('#resume-icon');
+var pageHeroAccessibilityControls = $('#hero-accessibility-controls');
+var toggleLink = $('#toggle-graphics');
+
+var paused = true;
+
+function toggle() {
+  if (paused) {
+    return resume();
+  } else {
+    return pause();
+  }
+}
+
+function pause() {
+  paused = true;
+  pauseIcon.hide();
+  resumeIcon.show();
+  toggleText.text('Resume');
+  toggleText2.text('Resume animations and start showing new graphics');
+  toggleLink.prop('title', 'Resume graphics');
+  pageHeroAccessibilityControls.trigger("hero-pause");
+  return false;
+}
+
+function resume() {
+  paused = false;
+  pauseIcon.show();
+  resumeIcon.hide();
+  toggleLink.prop('title', 'Pause graphics');
+  toggleText.text('Pause');
+  toggleText2.text('Pause animations and stop showing new graphics');
+  pageHeroAccessibilityControls.trigger("hero-resume");
+  return false;
+}
+
+toggleAction.click(toggle);
+
+resume(); // startup
+
+var workerFrequencyMs = 500;
+var startupDelayMs = 50;
+var firstDisplayDelayMs = 1700;
+var dismissMs = 500;
+var introduceMs = 800;
+var inbetweenMs = 1000;
+var hookResizeHandlerMs = 5000;
+
+var minimumClicksPerAvatar = 15;
+var maximumClicksPerAvatar = 25;
+
+var heroCount = 6;
+
+var lastKnownWidth = null;
+
+function resetAvatars() {
+  var visible = avatars.filter(avatar => visibleAvatars[avatar]);
+  visible.forEach(avatar => dismissAvatar(avatar));
+}
+
+function getOffset(element) {
+  var item = element.getBoundingClientRect();
+  return [item.top + window.pageYOffset - document.documentElement.clientTop, item.left + window.pageXOffset - document.documentElement.clientLeft];
+}
+
+function getSize(element) {
+  var item = element.getBoundingClientRect();
+  return [item.height, item.width];
+}
+
+function getRelativeOffset(element, container) {
+  var container = getOffset(container);
+  var item = getOffset(element);
+  var top = item[0] - container[0];
+  var left = item[1] - container[1];
+  return [top, left];
+}
+
+var visibleAvatars = {};
+
+var squareToAvatar = [];
+var squareRemainingClicks = [];
+
+var heroSquares = [];
+var heroFigure = null;
+var heroAvatarsContainer = null;
+
+var avatars = null;
+
+var mapAvatarToId = {};
+var mapAvatarIndex = 1;
+
+var nextAvatar = 0;
+
+function getNewAvatarIndex() {
+  var index = mapAvatarIndex++;
+  return 'heroAvatar' + index;
+}
+
+function startupAvatarLightup() {
+  for (var i = 1; i <= heroCount; i++) {
+    var element = $('#heroSquare' + i);
+    if (element && element.length === 1) {
+      heroSquares.push(i);
+      squareRemainingClicks.push(0);
+      squareToAvatar.push(null);
+    }
+    heroFigure = $('#hero-figure')[0];
+    heroAvatarsContainer = $('#hero-avatars')[0];
+  }
+
+  loadAvatars();
+}
+
+function getHeroSquare(i) {
+  var element = $('#heroSquare' + i);
+  return element[0];
+}
+
+function getNextAvailableAvatar() {
+  if (nextAvatar >= avatars.length) {
+    nextAvatar = 0;
+  }
+  return avatars[nextAvatar++];
+}
+
+function randomElement(arr) {
+  if (!arr || !arr.length) {
+    return null;
+  }
+  return arr[getRandomInt(0, arr.length)];
+}
+
+function featureNextAvatar(destinationSquareIndex) {
+  var newAvatar = getNextAvailableAvatar();
+  if (!newAvatar) {
+    return;
+  }
+  var outgoingAvatar = squareToAvatar[destinationSquareIndex];
+  if (outgoingAvatar) {
+    dismissAvatar(outgoingAvatar);
+  }
+  var newAvatarId = getNewAvatarIndex();
+  var newAvatarSelector = '#' + newAvatarId;
+  mapAvatarToId[newAvatar] = newAvatarId;
+  visibleAvatars[newAvatar] = true;
+  squareToAvatar[destinationSquareIndex] = newAvatar;
+  squareRemainingClicks[destinationSquareIndex] = getRandomInt(minimumClicksPerAvatar, maximumClicksPerAvatar);
+
+  var heroSquare = getHeroSquare(heroSquares[destinationSquareIndex]);
+  var heroPosition = getRelativeOffset(heroSquare, heroFigure);
+  var heroSize = getSize(heroSquare);
+  var heroImage = document.createElement('img');
+  heroImage.src = newAvatar;
+  heroImage.id = newAvatarId
+  heroImage.alt = 'A random photo or avatar of an open source contributor from Microsoft';
+  var style = heroImage.style;
+  style.position = 'absolute';
+  style.display = 'none';
+  style.backgroundColor = '#000';
+  style.borderRadius = '50%';
+  style.height = (Math.ceil(heroSize[0]) + 1.5) + 'px';
+  style.width = (Math.ceil(heroSize[1]) + 1.5) + 'px';
+  style.top = (Math.round(heroPosition[0]) - 1) + 'px';
+  style.left = (Math.round(heroPosition[1]) - 1) + 'px';
+  heroAvatarsContainer.append(heroImage);
+  setTimeout(() => {
+    $(newAvatarSelector).fadeIn(introduceMs, function () {
+      var rect = $(heroSquare).children('rect');
+      if (rect && rect.length === 1) {
+        $(rect).fadeOut(dismissMs, () => { rect.remove() });
+      }
+    });
+  }, outgoingAvatar ? inbetweenMs : 1);
+}
+
+function dismissAvatar(avatar) {
+  var outgoingId = mapAvatarToId[avatar];
+  if (outgoingId) {
+    mapAvatarToId[avatar] = null;
+    var outgoingElement = $('#' + outgoingId);
+    outgoingElement.fadeOut(dismissMs, function () {
+      visibleAvatars[avatar] = false;
+      outgoingElement.remove();
+    });
+  }
+}
+
+function loadAvatars() {
+  $.ajax({
+    type: 'GET',
+    url: '/api/avatars',
+    dataType: 'json',
+    success: function(response) {
+        if (response && response.avatars && response.avatars.length) {
+            avatars = response.avatars;
+        }
+        setTimeout(worker, firstDisplayDelayMs);
+        setTimeout(hookResize, hookResizeHandlerMs);
+    },
+  });
+}
+
+function hookResize() {
+  window.onresize = onResize;
+}
+
+function onResize() {
+  var width = window.innerWidth;
+  if (lastKnownWidth !== width) {
+    lastKnownWidth = width;
+    resetAvatars();
+  }
+}
+
+function worker() {
+  if (!paused) {
+    var availableSquare = tryGetAvailableSquare();
+    if (availableSquare !== undefined) {
+      featureNextAvatar(availableSquare);
+    }
+  }
+  setTimeout(worker, workerFrequencyMs);
+}
+
+function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+function tryGetAvailableSquare() {
+  const squares = [];
+  for (var i = 0; i < heroSquares.length; i++) {
+    if (squareRemainingClicks[i]) {
+      --squareRemainingClicks[i];
+    }
+    if (!squareRemainingClicks[i] || squareRemainingClicks[i] < 0) {
+      squares.push(i);
+    }
+  }
+  if (squares.length) {
+    return randomElement(squares);
+  }
+}
+
+setTimeout(startupAvatarLightup, startupDelayMs);
+
+</script>
+
+        </main>
+
+        
+
+
+<div class="wrapper-full bg-dark">
+    <div class="py-6 my-6">
+        <div class="wrapper ">
+            <div class="d-md-flex flex-justify-between">
+                <div class="col-12 col-md-7 col-lg-7 mb-6 mb-md-0">
+                    <div class="text-white" data-animate-in="fade">
+                        <ul class="list-style-none">
+                            <li>
+                                <a class="mt-4 link-arrow-external" href="https://twitter.com/OpenAtMicrosoft" target="_blank" rel= "noopener">
+                                    <img class="mr-2" src="/assets/images/svgs/twitter.svg" alt="Twitter icon" title="Twitter icon" />
+                                    OpenAtMicrosoft
+                                </a>
+                            </li>
+                            <li>
+                                <a class="mt-4 link-arrow-external" href="https://github.com/microsoft/opensource.microsoft.com" target="_blank" rel= "noopener">
+                                    <img class="mr-2" src="/assets/images/svgs/github.svg" alt="GitHub icon" title="GitHub icon" />
+                                    microsoft/opensource.microsoft.com
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 col-md-5 col-lg-4 pl-md-4 pl-lg-2">
+                    <figure class="intro-svg">
+                        <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 370 178" enable-background="new 0 0 370 178" xml:space="preserve">
+<path fill="#FCE100" d="M197.9,58.5c-0.3-0.3-0.6-0.3-1-0.2c0.3,0.6,0.6,1.2,0.9,1.7c0,0,0.1,0,0.1-0.1
+	C198.2,59.5,198.2,58.9,197.9,58.5z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 14.4334 160.2719)" fill="#FCE100" cx="200.7" cy="62.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 12.967 163.8036)" fill="#FCE100" cx="204.2" cy="66.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 11.5045 167.3429)" fill="#FCE100" cx="207.8" cy="69.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 10.042 170.8824)" fill="#FCE100" cx="211.3" cy="73.3" rx="1" ry="1"/>
+<path fill="#FCE100" d="M215.5,76.1c-0.4-0.4-1-0.4-1.4,0c0,0,0,0.1-0.1,0.1c0.6,0.3,1.1,0.6,1.7,0.9
+	C215.9,76.8,215.8,76.4,215.5,76.1z"/>
+<path fill="#FCE100" d="M194.3,47.9c-0.2-0.2-0.5-0.3-0.8-0.3c0.1,0.6,0.2,1.3,0.4,1.9c0.1,0,0.3-0.1,0.4-0.2
+	C194.7,48.9,194.7,48.3,194.3,47.9z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 20.8981 154.6656)" fill="#FCE100" cx="197.1" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 19.4313 158.1969)" fill="#FCE100" cx="200.7" cy="55.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 17.9692 161.7367)" fill="#FCE100" cx="204.2" cy="59.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 16.5044 165.2719)" fill="#FCE100" cx="207.8" cy="62.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 15.0398 168.807)" fill="#FCE100" cx="211.3" cy="66.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 13.5778 172.3472)" fill="#FCE100" cx="214.8" cy="69.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 12.1112 175.8787)" fill="#FCE100" cx="218.4" cy="73.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 10.6469 179.4146)" fill="#FCE100" cx="221.9" cy="76.9" rx="1" ry="1"/>
+<path fill="#FCE100" d="M226.1,79.7c-0.4-0.4-1-0.4-1.4,0c-0.1,0.1-0.2,0.3-0.2,0.4c0.6,0.1,1.3,0.3,1.9,0.4
+	C226.4,80.2,226.3,79.9,226.1,79.7z"/>
+<path fill="#FCE100" d="M194.3,42.2c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-0.9-0.4-1.3-0.1c0,0.1,0,0.2,0,0.3c0,0.4,0,0.9,0,1.3
+	C193.4,42.6,194,42.6,194.3,42.2z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 25.8981 152.5946)" fill="#FCE100" cx="197.1" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 24.4312 156.1259)" fill="#FCE100" cx="200.7" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 22.9691 159.6656)" fill="#FCE100" cx="204.2" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 21.5022 163.1967)" fill="#FCE100" cx="207.8" cy="55.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 20.0423 166.74)" fill="#FCE100" cx="211.3" cy="59.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 18.5755 170.2718)" fill="#FCE100" cx="214.8" cy="62.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 17.1112 173.8077)" fill="#FCE100" cx="218.4" cy="66.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 15.6469 177.3435)" fill="#FCE100" cx="221.9" cy="69.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 14.1823 180.8787)" fill="#FCE100" cx="225.4" cy="73.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 12.7154 184.4091)" fill="#FCE100" cx="229" cy="76.9" rx="1" ry="1"/>
+<path fill="#FCE100" d="M233.2,79.7c-0.4-0.4-1-0.4-1.4,0c-0.4,0.4-0.4,0.9-0.1,1.3c0.4,0,0.9,0,1.3,0c0.1,0,0.2,0,0.3,0
+	C233.6,80.6,233.6,80,233.2,79.7z"/>
+<path fill="#FCE100" d="M194.3,35.1c0.4-0.4,0.4-1,0-1.4c-0.2-0.2-0.4-0.2-0.6-0.3c-0.1,0.6-0.2,1.3-0.3,1.9
+	C193.7,35.5,194.1,35.4,194.3,35.1z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 30.8981 150.5235)" fill="#FCE100" cx="197.1" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 29.4335 154.0587)" fill="#FCE100" cx="200.7" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 27.9692 157.5945)" fill="#FCE100" cx="204.2" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 26.5021 161.1258)" fill="#FCE100" cx="207.8" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 25.0399 164.6648)" fill="#FCE100" cx="211.3" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 23.578 168.2048)" fill="#FCE100" cx="214.8" cy="55.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 22.1113 171.7365)" fill="#FCE100" cx="218.4" cy="59.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 20.6444 175.2681)" fill="#FCE100" cx="221.9" cy="62.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 19.1798 178.8031)" fill="#FCE100" cx="225.4" cy="66.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 17.7176 182.3428)" fill="#FCE100" cx="229" cy="69.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 16.2509 185.8739)" fill="#FCE100" cx="232.5" cy="73.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 14.7912 189.4185)" fill="#FCE100" cx="236" cy="76.9" rx="1" ry="1"/>
+<path fill="#FCE100" d="M238.9,79.7c-0.2,0.2-0.3,0.6-0.3,0.9c0.7-0.1,1.3-0.2,1.9-0.3c0-0.2-0.1-0.4-0.3-0.6
+	C239.9,79.3,239.3,79.3,238.9,79.7z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 35.8981 148.4525)" fill="#FCE100" cx="197.1" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 34.4334 151.9876)" fill="#FCE100" cx="200.7" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 32.9691 155.5235)" fill="#FCE100" cx="204.2" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 31.5045 159.0586)" fill="#FCE100" cx="207.8" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 30.0399 162.5938)" fill="#FCE100" cx="211.3" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 28.5782 166.1336)" fill="#FCE100" cx="214.8" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 27.1087 169.6614)" fill="#FCE100" cx="218.4" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 25.6469 173.2014)" fill="#FCE100" cx="221.9" cy="55.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 24.1849 176.7409)" fill="#FCE100" cx="225.4" cy="59.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 22.7151 180.2673)" fill="#FCE100" cx="229" cy="62.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 21.2533 183.8076)" fill="#FCE100" cx="232.5" cy="66.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 19.7887 187.3427)" fill="#FCE100" cx="236" cy="69.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 18.3244 190.8786)" fill="#FCE100" cx="239.6" cy="73.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 16.8601 194.4144)" fill="#FCE100" cx="243.1" cy="76.9" rx="1" ry="1"/>
+<path fill="#FCE100" d="M197.9,24.5c0.4-0.4,0.4-1,0-1.4c-0.1-0.1-0.3-0.2-0.5-0.3c-0.3,0.6-0.6,1.1-0.8,1.7
+	C196.9,24.9,197.5,24.9,197.9,24.5z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 39.4334 149.9165)" fill="#FCE100" cx="200.7" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 37.9691 153.4524)" fill="#FCE100" cx="204.2" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 36.5045 156.9876)" fill="#FCE100" cx="207.8" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 35.0425 160.5265)" fill="#FCE100" cx="211.3" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 33.5782 164.0625)" fill="#FCE100" cx="214.8" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 32.1086 167.5904)" fill="#FCE100" cx="218.4" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 30.6443 171.1262)" fill="#FCE100" cx="221.9" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 29.1823 174.6655)" fill="#FCE100" cx="225.4" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 27.7177 178.2006)" fill="#FCE100" cx="229" cy="55.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 26.2507 181.732)" fill="#FCE100" cx="232.5" cy="59.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 24.7886 185.2717)" fill="#FCE100" cx="236" cy="62.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 23.3217 188.8029)" fill="#FCE100" cx="239.6" cy="66.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 21.8627 192.3481)" fill="#FCE100" cx="243.1" cy="69.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 20.3954 195.8785)" fill="#FCE100" cx="246.6" cy="73.3" rx="1" ry="1"/>
+<path fill="#FCE100" d="M249.5,76.1c-0.4,0.4-0.4,0.9-0.1,1.3c0.6-0.3,1.2-0.5,1.7-0.8c0-0.2-0.1-0.4-0.3-0.5
+	C250.5,75.8,249.9,75.8,249.5,76.1z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 44.4308 147.8421)" fill="#FCE100" cx="200.7" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 42.9718 151.3848)" fill="#FCE100" cx="204.2" cy="23.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 41.5045 154.9165)" fill="#FCE100" cx="207.8" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 40.0399 158.4516)" fill="#FCE100" cx="211.3" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 38.5755 161.9875)" fill="#FCE100" cx="214.8" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 37.1084 165.5195)" fill="#FCE100" cx="218.4" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 35.6469 169.0592)" fill="#FCE100" cx="221.9" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 34.185 172.5985)" fill="#FCE100" cx="225.4" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 32.7149 176.1253)" fill="#FCE100" cx="229" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 31.2506 179.6611)" fill="#FCE100" cx="232.5" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 29.7887 183.2005)" fill="#FCE100" cx="236" cy="55.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 28.3244 186.7364)" fill="#FCE100" cx="239.6" cy="59.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 26.8627 190.277)" fill="#FCE100" cx="243.1" cy="62.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 25.3926 193.8027)" fill="#FCE100" cx="246.6" cy="66.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 23.9311 197.3433)" fill="#FCE100" cx="250.2" cy="69.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 22.4692 200.8835)" fill="#FCE100" cx="253.7" cy="73.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 47.9692 149.3103)" fill="#FCE100" cx="204.2" cy="16.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 46.5017 152.8419)" fill="#FCE100" cx="207.8" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 45.0427 156.3842)" fill="#FCE100" cx="211.3" cy="23.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 43.5756 159.9164)" fill="#FCE100" cx="214.8" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 42.1084 163.4485)" fill="#FCE100" cx="218.4" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 40.644 166.9843)" fill="#FCE100" cx="221.9" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 39.1823 170.5233)" fill="#FCE100" cx="225.4" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 37.7177 174.0585)" fill="#FCE100" cx="229" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 36.2505 177.5901)" fill="#FCE100" cx="232.5" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 34.7859 181.1251)" fill="#FCE100" cx="236" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 33.3215 184.6609)" fill="#FCE100" cx="239.6" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 31.8601 188.2012)" fill="#FCE100" cx="243.1" cy="55.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 30.3983 191.741)" fill="#FCE100" cx="246.6" cy="59.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 28.9282 195.2675)" fill="#FCE100" cx="250.2" cy="62.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 27.4664 198.8074)" fill="#FCE100" cx="253.7" cy="66.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 26.005 202.3483)" fill="#FCE100" cx="257.3" cy="69.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 51.5045 150.7743)" fill="#FCE100" cx="207.8" cy="13.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 50.0429 154.313)" fill="#FCE100" cx="211.3" cy="16.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 48.5786 157.8489)" fill="#FCE100" cx="214.8" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 47.1112 161.3812)" fill="#FCE100" cx="218.4" cy="23.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 45.6469 164.9171)" fill="#FCE100" cx="221.9" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 44.1852 168.4562)" fill="#FCE100" cx="225.4" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 42.7147 171.9834)" fill="#FCE100" cx="229" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 41.2503 175.5192)" fill="#FCE100" cx="232.5" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 39.7917 179.0627)" fill="#FCE100" cx="236" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 38.3214 182.5899)" fill="#FCE100" cx="239.6" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 36.8601 186.1301)" fill="#FCE100" cx="243.1" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 35.3954 189.6653)" fill="#FCE100" cx="246.6" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 33.9311 193.2012)" fill="#FCE100" cx="250.2" cy="55.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 32.4695 196.7411)" fill="#FCE100" cx="253.7" cy="59.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 31.0021 200.2722)" fill="#FCE100" cx="257.3" cy="62.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 29.5345 203.8024)" fill="#FCE100" cx="260.8" cy="66.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 55.043 152.2418)" fill="#FCE100" cx="211.3" cy="9.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 53.5787 155.7778)" fill="#FCE100" cx="214.8" cy="13.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 52.1143 159.3138)" fill="#FCE100" cx="218.4" cy="16.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 50.647 162.846)" fill="#FCE100" cx="221.9" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 49.1822 166.3812)" fill="#FCE100" cx="225.4" cy="23.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 47.7176 169.9164)" fill="#FCE100" cx="229" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 46.2503 173.4482)" fill="#FCE100" cx="232.5" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 44.7856 176.9832)" fill="#FCE100" cx="236" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 43.3244 180.5232)" fill="#FCE100" cx="239.6" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 41.8631 184.0634)" fill="#FCE100" cx="243.1" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 40.3924 187.5898)" fill="#FCE100" cx="246.6" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 38.9312 191.1301)" fill="#FCE100" cx="250.2" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 37.4665 194.6653)" fill="#FCE100" cx="253.7" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 36.0053 198.2059)" fill="#FCE100" cx="257.3" cy="55.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 34.5345 201.7314)" fill="#FCE100" cx="260.8" cy="59.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 33.0759 205.2765)" fill="#FCE100" cx="264.3" cy="62.7" rx="1" ry="1"/>
+<path fill="#FCE100" d="M214.1,6.9c0.4,0.4,1,0.4,1.4,0c0.4-0.4,0.4-1,0-1.4c-0.1-0.1-0.2-0.2-0.4-0.2c-0.4,0.2-0.8,0.4-1.3,0.7
+	C213.8,6.2,213.8,6.6,214.1,6.9z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 57.1112 157.2391)" fill="#FCE100" cx="218.4" cy="9.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 55.6469 160.7749)" fill="#FCE100" cx="221.9" cy="13.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 54.1823 164.3101)" fill="#FCE100" cx="225.4" cy="16.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 52.7177 167.8452)" fill="#FCE100" cx="229" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 51.2565 171.3851)" fill="#FCE100" cx="232.5" cy="23.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 49.7887 174.9163)" fill="#FCE100" cx="236" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 48.3212 178.448)" fill="#FCE100" cx="239.6" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 46.8632 181.9923)" fill="#FCE100" cx="243.1" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 45.3986 185.5275)" fill="#FCE100" cx="246.6" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 43.9311 189.059)" fill="#FCE100" cx="250.2" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 42.4665 192.5942)" fill="#FCE100" cx="253.7" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 41.0022 196.1301)" fill="#FCE100" cx="257.3" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 39.5343 199.6604)" fill="#FCE100" cx="260.8" cy="52.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 38.0729 203.2004)" fill="#FCE100" cx="264.3" cy="55.6" rx="1" ry="1"/>
+<path fill="#FCE100" d="M267.2,58.5c-0.4,0.4-0.4,1,0,1.4c0.3,0.3,0.6,0.3,1,0.2c0.2-0.4,0.4-0.8,0.7-1.3c0-0.1-0.1-0.3-0.2-0.4
+	C268.2,58.1,267.5,58.1,267.2,58.5z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 60.6469 158.7039)" fill="#FCE100" cx="221.9" cy="6.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 59.1856 162.2426)" fill="#FCE100" cx="225.4" cy="9.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 57.7177 165.7742)" fill="#FCE100" cx="229" cy="13.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 56.2534 169.31)" fill="#FCE100" cx="232.5" cy="16.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 54.7855 172.8413)" fill="#FCE100" cx="236" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 53.3243 176.3811)" fill="#FCE100" cx="239.6" cy="23.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 51.8633 179.9211)" fill="#FCE100" cx="243.1" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 50.3954 183.4521)" fill="#FCE100" cx="246.6" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 48.9278 186.9836)" fill="#FCE100" cx="250.2" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 47.4664 190.5231)" fill="#FCE100" cx="253.7" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 46.0054 194.0636)" fill="#FCE100" cx="257.3" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 44.5343 197.5895)" fill="#FCE100" cx="260.8" cy="45" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 43.0729 201.1293)" fill="#FCE100" cx="264.3" cy="48.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 41.6089 204.6659)" fill="#FCE100" cx="267.9" cy="52.1" rx="1" ry="1"/>
+<path fill="#FCE100" d="M224.7,3.3c0.4,0.4,1,0.4,1.4,0c0.4-0.4,0.4-1,0-1.4c-0.1-0.1-0.3-0.2-0.4-0.2c-0.3,0.1-0.6,0.1-0.9,0.2
+	c0,0-0.1,0-0.1,0.1C224.3,2.3,224.3,2.9,224.7,3.3z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 62.7177 163.7031)" fill="#FCE100" cx="229" cy="6.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 61.2533 167.239)" fill="#FCE100" cx="232.5" cy="9.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 59.7887 170.7741)" fill="#FCE100" cx="236" cy="13.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 58.3244 174.31)" fill="#FCE100" cx="239.6" cy="16.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 56.8601 177.8458)" fill="#FCE100" cx="243.1" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 55.3954 181.381)" fill="#FCE100" cx="246.6" cy="23.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 53.9277 184.9127)" fill="#FCE100" cx="250.2" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 52.4665 188.4521)" fill="#FCE100" cx="253.7" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 51.0021 191.9879)" fill="#FCE100" cx="257.3" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 49.5341 195.5185)" fill="#FCE100" cx="260.8" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 48.0763 199.0629)" fill="#FCE100" cx="264.3" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 46.6089 202.5948)" fill="#FCE100" cx="267.9" cy="45" rx="1" ry="1"/>
+<path fill="#FCE100" d="M272.1,47.9c-0.4-0.4-1-0.4-1.4,0s-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0c0,0,0-0.1,0.1-0.1
+	c0.1-0.3,0.1-0.6,0.2-0.9C272.3,48.1,272.2,48,272.1,47.9z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 66.2568 165.1715)" fill="#FCE100" cx="232.5" cy="2.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 64.7887 168.7031)" fill="#FCE100" cx="236" cy="6.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 63.3244 172.239)" fill="#FCE100" cx="239.6" cy="9.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 61.8636 175.7787)" fill="#FCE100" cx="243.1" cy="13.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 60.392 179.3059)" fill="#FCE100" cx="246.6" cy="16.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 58.9312 182.8458)" fill="#FCE100" cx="250.2" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 57.4699 186.3852)" fill="#FCE100" cx="253.7" cy="23.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 56.0056 189.9212)" fill="#FCE100" cx="257.3" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 54.534 193.4476)" fill="#FCE100" cx="260.8" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 53.0729 196.9872)" fill="#FCE100" cx="264.3" cy="34.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 51.6124 200.5284)" fill="#FCE100" cx="267.9" cy="38" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 50.1442 204.0589)" fill="#FCE100" cx="271.4" cy="41.5" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 68.3244 170.1679)" fill="#FCE100" cx="239.6" cy="2.6" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 66.8637 173.7075)" fill="#FCE100" cx="243.1" cy="6.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 65.3954 177.2389)" fill="#FCE100" cx="246.6" cy="9.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 63.9311 180.7748)" fill="#FCE100" cx="250.2" cy="13.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 62.4701 184.314)" fill="#FCE100" cx="253.7" cy="16.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 61.0058 187.85)" fill="#FCE100" cx="257.3" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 59.5375 191.381)" fill="#FCE100" cx="260.8" cy="23.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 58.0765 194.9206)" fill="#FCE100" cx="264.3" cy="27.4" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 56.6089 198.4527)" fill="#FCE100" cx="267.9" cy="30.9" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 55.1406 201.9832)" fill="#FCE100" cx="271.4" cy="34.4" rx="1" ry="1"/>
+<path fill="#FCE100" d="M247,3.5c-0.4-0.2-0.8-0.3-1.2-0.4c0,0.1,0.1,0.2,0.1,0.2C246.2,3.6,246.7,3.7,247,3.5z"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 68.9311 178.7037)" fill="#FCE100" cx="250.2" cy="6.1" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 67.4702 182.2429)" fill="#FCE100" cx="253.7" cy="9.7" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 66.0059 185.7789)" fill="#FCE100" cx="257.3" cy="13.2" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 64.5339 189.3056)" fill="#FCE100" cx="260.8" cy="16.8" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 63.073 192.845)" fill="#FCE100" cx="264.3" cy="20.3" rx="1" ry="1"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 61.6125 196.3861)" fill="#FCE100" cx="267.9" cy="23.8" rx="1" ry="1"/>
+<path fill="#FCE100" d="M270.7,28.1c0.1,0.1,0.1,0.1,0.2,0.1c-0.1-0.4-0.3-0.8-0.4-1.2C270.3,27.3,270.4,27.8,270.7,28.1z"/>
+<g>
+	<path fill="#FFFFFF" d="M81.5,177.5h-81v-81h81V177.5z M1.5,176.5h79v-79h-79V176.5z"/>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M329,81.5c-22.3,0-40.5-18.2-40.5-40.5S306.7,0.5,329,0.5s40.5,18.2,40.5,40.5S351.3,81.5,329,81.5z
+		 M329,1.5c-21.8,0-39.5,17.7-39.5,39.5s17.7,39.5,39.5,39.5s39.5-17.7,39.5-39.5S350.8,1.5,329,1.5z"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="100" cy="99" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="100" cy="114" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="100" cy="129" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="100" cy="144" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="100" cy="159" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="100" cy="174" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="115" cy="99" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="115" cy="114" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="115" cy="129" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="115" cy="144" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="115" cy="159" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="115" cy="174" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="130" cy="99" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="130" cy="114" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="130" cy="129" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="130" cy="144" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="130" cy="159" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="130" cy="174" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="145" cy="99" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="145" cy="114" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="145" cy="129" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="145" cy="144" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="145" cy="159" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="145" cy="174" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="160" cy="99" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="160" cy="114" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="160" cy="129" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="160" cy="144" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="160" cy="159" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="160" cy="174" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="175" cy="99" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="175" cy="114" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="175" cy="129" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="175" cy="144" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="175" cy="159" r="1"/>
+</g>
+<g>
+	<circle fill="#00B7C3" cx="175" cy="174" r="1"/>
+</g>
+<g>
+	<circle fill="#50E6FF" cx="41" cy="41" r="40"/>
+</g>
+<g>
+	<rect x="289" y="97" fill="#004E8C" width="80" height="80"/>
+</g>
+<g>
+	<g>
+		<path fill="#0078D4" d="M108.7,69.3L108.7,69.3c3,3,6.4,5.5,10.2,7.4L101.3,59C103.2,62.8,105.7,66.3,108.7,69.3z"/>
+		<path fill="#0078D4" d="M98.1,50.1l29.8,29.8c1.1,0.3,2.3,0.5,3.5,0.7L97.4,46.7C97.6,47.8,97.8,49,98.1,50.1z"/>
+		<path fill="#0078D4" d="M97,40.6L137.4,81c0.9,0,1.8-0.1,2.7-0.1l-43-43C97.1,38.8,97,39.7,97,40.6z"/>
+		<path fill="#0078D4" d="M97.8,32.9l47.3,47.3c0.8-0.2,1.5-0.3,2.3-0.5l-49-49C98.2,31.4,98,32.2,97.8,32.9z"/>
+		<path fill="#0078D4" d="M99.8,26.4l51.8,51.8c0.7-0.3,1.3-0.5,2-0.8l-53-53C100.3,25.1,100,25.7,99.8,26.4z"/>
+		<path fill="#0078D4" d="M102.5,20.7l54.8,54.8c0.6-0.3,1.2-0.7,1.7-1.1l-55.4-55.4C103.3,19.5,102.9,20.1,102.5,20.7z"/>
+		<path fill="#0078D4" d="M106,15.7L162.3,72c0.5-0.4,1-0.9,1.5-1.3l-56.5-56.5C106.9,14.7,106.5,15.2,106,15.7z"/>
+		<path fill="#0078D4" d="M110.2,11.3l56.5,56.5c0.4-0.5,0.9-1,1.3-1.5L111.7,10C111.2,10.5,110.7,10.9,110.2,11.3z"/>
+		<path fill="#0078D4" d="M114.9,7.6l55.4,55.4c0.4-0.6,0.7-1.2,1.1-1.7L116.7,6.5C116.1,6.9,115.5,7.3,114.9,7.6z"/>
+		<path fill="#0078D4" d="M120.4,4.6l53,53c0.3-0.7,0.6-1.3,0.8-2L122.4,3.8C121.7,4,121.1,4.3,120.4,4.6z"/>
+		<path fill="#0078D4" d="M126.6,2.4l49,49c0.2-0.8,0.4-1.5,0.5-2.3L128.9,1.8C128.2,2,127.4,2.2,126.6,2.4z"/>
+		<path fill="#0078D4" d="M133.9,1.1l43,43c0.1-0.9,0.1-1.8,0.1-2.7L136.6,1C135.7,1,134.8,1.1,133.9,1.1z"/>
+		<path fill="#0078D4" d="M142.7,1.4l33.9,33.9c-0.2-1.2-0.4-2.3-0.7-3.5L146.1,2.1C145,1.8,143.8,1.6,142.7,1.4z"/>
+	</g>
+	<path fill="#0078D4" d="M155,5.3L172.7,23C168.8,15.4,162.6,9.2,155,5.3z"/>
+</g>
+<g>
+	<rect x="193" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="199" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="205" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="211" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="217" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="223" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="229" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="235" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="241" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="247" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="253" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="259" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="265" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+<g>
+	<rect x="271" y="98" fill="#4F6BED" width="2" height="80"/>
+</g>
+</svg>
+
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="site-footer" role="contentinfo">
+    <div class="wrapper d-lg-flex flex-justify-between flex-items-center">
+        <div class="site-footer__brand">
+            <img src="/assets/images/Microsoft-icon-white.svg" alt="Microsoft icon" />
+            <p>Powered by <a href="/thanks/">Open Source</a> and Microsoft Azure</p>
+        </div>
+
+        <ul>
+            <li>
+                <a href="https://aka.ms/opensource" onclick="return confirm('Are you sure you want to continue to https://aka.ms/opensource? This resource is restricted to Microsoft employees to share guidance and documentation about open source at Microsoft.\n\nIf you continue, you will be redirected to authenticate with Azure Active Directory, and the error messages may be confusing if you are not able to sign-in.')">Employee sign-in</a>
+            </li>
+            <li>
+                <a href="https://careers.microsoft.com/us/en/search-results?keywords=open%20source" target="_new">Jobs</a>
+            </li>
+            <li>
+                <a href="https://cloudblogs.microsoft.com/opensource" target="_new">Blog</a>
+            </li>
+            <li>
+                <a href="/codeofconduct/">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://privacy.microsoft.com/en-us/privacystatement" target="_blank">Privacy & Cookies</a>
+            </li>
+            <li id="manageCookies" data-require-javascript="yes" data-javascript-show="immediate">
+                <a href="#" onclick="manageCookies()" >Manage Cookies</a>
+            </li>
+            <li>
+                <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx" target="_blank">Terms</a>
+            </li>
+            <li>
+                <a href="https://www.microsoft.com/trademarks" target="_blank">Trademarks</a>
+            </li>
+            <li>
+                <p>© <span id="year">2020</span> Microsoft</p>
+            </li>
+        </ul>
+    </div>
+    <script>
+        var date = new Date().getFullYear(),
+            year = document.getElementById('year');
+            if(year) {
+                document.getElementById('year').innerHTML = date;
+            }
+    </script>
+</footer>
+
+
+        <script src="https://opensource.azureedge.net/assets/js/gsap.min.js"></script>
+        <script src="https://opensource.azureedge.net/assets/js/DrawSVGPlugin.min.js"></script>
+        <script src="/assets/js/main.js"></script>
+        <script type="text/javascript">
+    function enableAppInsights() {
+        var appInsights=window.appInsights||function(config){function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t}({instrumentationKey:"dd07f269-f88e-440d-b594-2e66a5ed67b7"/*the telemetry instrumentation key is NOT a secret FYI */});window.appInsights=appInsights;appInsights.trackPageView();
+    }
+    </script>
+    <script src="https://az725175.vo.msecnd.net/scripts/jsll-4.js"></script>
+    <script>
+    var siteConsent = null;
+    function enableAnalytics() {
+        var config = {
+            coreData: {
+                appId: 'opensource.microsoft.com'
+            }
+        };
+        awa.init(config);
+    }
+    function addTelemetry() {
+        enableAppInsights();
+        enableAnalytics();
+    }
+    function onConsentChanged(categoryPreferences) {
+        evaluateUserConsent();
+        evaluateShowManagement();
+    }
+    function evaluateShowManagement() {
+        document.getElementById('manageCookies').style.display = siteConsent.isConsentRequired ? 'inline-block' : 'none';
+    }
+    function evaluateUserConsent() {
+        if (siteConsent && siteConsent.getConsentFor(WcpConsent.consentCategories.Analytics)) {
+            addTelemetry();
+        }
+    }
+    WcpConsent.init('en-US', 'cookiebanner', function (err, _siteConsent) {
+        if (err != undefined) {
+            return error;
+        } else {
+            siteConsent = _siteConsent;
+        }
+        evaluateShowManagement();
+    }, onConsentChanged);
+    function manageCookies() {
+        if(siteConsent.isConsentRequired){
+            siteConsent.manageConsent();
+        }
+        return false;
+    }
+</script>
+
+    </body>
+</html>
+    
